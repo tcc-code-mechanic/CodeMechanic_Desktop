@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeMechanic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_cadastro_carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_cadastro_carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|D:\\CodeMechanic\\codemechanic\\tela_ordem_de_servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_ordem_de_servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_or\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_or\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_carros_quebrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_carros_quebrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_carros_consertados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_carros_consertados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_pe\u00E7as_servi\u00E7os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_pe\u00E7as_servi\u00E7os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|D:\\CodeMechanic\\codemechanic\\tela_de_socorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_de_socorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|d:\\codemechanic\\codemechanic\\tela_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}|CodeMechanic\\CodeMechanic.csproj|solutionrelative:codemechanic\\tela_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tela_Ordem_de_Servico.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Ordem_de_Servico.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Ordem_de_Servico.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Ordem_de_Servico.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Ordem_de_Servico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:04:53.246Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tela_Clientes.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Clientes.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Clientes.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Clientes.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:15:45.91Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tela_Cadastro_Carros.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Cadastro_Carros.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Cadastro_Carros.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Cadastro_Carros.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Cadastro_Carros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:16:20.659Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tela_Carros_Consertados.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Carros_Consertados.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Carros_Consertados.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Carros_Consertados.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Carros_Consertados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:16:29.394Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tela_Carros_Quebrados.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Carros_Quebrados.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Carros_Quebrados.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Carros_Quebrados.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Carros_Quebrados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:16:42.688Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tela_Pe\u00E7as_Servi\u00E7os.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Pe\u00E7as_Servi\u00E7os.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Pe\u00E7as_Servi\u00E7os.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Pe\u00E7as_Servi\u00E7os.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Pe\u00E7as_Servi\u00E7os.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:45.409Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tela_Or\u00E7amento.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Or\u00E7amento.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Or\u00E7amento.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Or\u00E7amento.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Or\u00E7amento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:01.814Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tela_Pagamentos.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Pagamentos.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Pagamentos.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Pagamentos.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Pagamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:17:13.304Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tela_Funcionarios.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_Funcionarios.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_Funcionarios.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_Funcionarios.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_Funcionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:48:55.698Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tela_de_Socorro.cs [Design]",
+              "DocumentMoniker": "D:\\CodeMechanic\\CodeMechanic\\Tela_de_Socorro.cs",
+              "RelativeDocumentMoniker": "CodeMechanic\\Tela_de_Socorro.cs",
+              "ToolTip": "D:\\CodeMechanic\\CodeMechanic\\Tela_de_Socorro.cs [Design]",
+              "RelativeToolTip": "CodeMechanic\\Tela_de_Socorro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:40:37.136Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

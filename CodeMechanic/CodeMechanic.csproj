@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BC1F632-B677-40E9-A4D3-AE8BD1D64866}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeMechanic</RootNamespace>
+    <AssemblyName>CodeMechanic</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Tela_Cadastro_Carros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Cadastro_Carros.Designer.cs">
+      <DependentUpon>Tela_Cadastro_Carros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Carros_Consertados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Carros_Consertados.Designer.cs">
+      <DependentUpon>Tela_Carros_Consertados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Carros_Quebrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Carros_Quebrados.Designer.cs">
+      <DependentUpon>Tela_Carros_Quebrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Clientes.Designer.cs">
+      <DependentUpon>Tela_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela_de_Socorro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_de_Socorro.Designer.cs">
+      <DependentUpon>Tela_de_Socorro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Funcionarios.Designer.cs">
+      <DependentUpon>Tela_Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Ordem_de_Servico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Ordem_de_Servico.Designer.cs">
+      <DependentUpon>Tela_Ordem_de_Servico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Orçamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Orçamento.Designer.cs">
+      <DependentUpon>Tela_Orçamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Pagamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Pagamentos.Designer.cs">
+      <DependentUpon>Tela_Pagamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Peças_Serviços.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Peças_Serviços.Designer.cs">
+      <DependentUpon>Tela_Peças_Serviços.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tela_Cadastro_Carros.resx">
+      <DependentUpon>Tela_Cadastro_Carros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Carros_Consertados.resx">
+      <DependentUpon>Tela_Carros_Consertados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Carros_Quebrados.resx">
+      <DependentUpon>Tela_Carros_Quebrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Clientes.resx">
+      <DependentUpon>Tela_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tela_de_Socorro.resx">
+      <DependentUpon>Tela_de_Socorro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Funcionarios.resx">
+      <DependentUpon>Tela_Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Ordem_de_Servico.resx">
+      <DependentUpon>Tela_Ordem_de_Servico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Orçamento.resx">
+      <DependentUpon>Tela_Orçamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Pagamentos.resx">
+      <DependentUpon>Tela_Pagamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Peças_Serviços.resx">
+      <DependentUpon>Tela_Peças_Serviços.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bone White Blue Groovy You Matter Desktop Wallpaper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CodeMechanic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CodeMechanic %282%29-Photoroom.png-Photoroom.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
